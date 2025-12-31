@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\buildingelevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\buildingelevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\buildingshingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\buildingshingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\hvac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\hvac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\duct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\duct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationvegetation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationvegetation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\roof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\roof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\truss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\truss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\stair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\stair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationbodyofwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationbodyofwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\simulationmodelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\simulationmodelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|d:\\dreamworldmaker\\projects\\dotnet\\simulationlibrary\\simulationlibrary\\simulationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7B4706-551F-5B29-18AB-5887BDAB13E1}|SimulationLibrary\\SimulationLibrary.csproj|solutionrelative:simulationlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Room.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Room.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Room.cs",
+              "RelativeToolTip": "SimulationLibrary\\Room.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T22:18:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HVAC.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\HVAC.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\HVAC.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\HVAC.cs",
+              "RelativeToolTip": "SimulationLibrary\\HVAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T22:18:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pipe.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Pipe.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Pipe.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Pipe.cs",
+              "RelativeToolTip": "SimulationLibrary\\Pipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T22:18:29.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Duct.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Duct.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Duct.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Duct.cs",
+              "RelativeToolTip": "SimulationLibrary\\Duct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T22:18:21.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimulationModel.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationModel.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationModel.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationModel.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationModel.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:36:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimulationWeapon.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationWeapon.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationWeapon.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationWeapon.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationWeapon.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SimulationVehicle.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationVehicle.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationVehicle.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationVehicle.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimulationVegetation.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationVegetation.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationVegetation.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationVegetation.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationVegetation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:29.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimulationTool.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationTool.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationTool.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationTool.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimulationTerrain.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationTerrain.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationTerrain.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationTerrain.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationTerrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimulationScene.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationScene.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationScene.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationScene.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:33:03.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SimulationScenario.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationScenario.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationScenario.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationScenario.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationScenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimulationPerson.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationPerson.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationPerson.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationPerson.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SimulationRoad.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationRoad.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationRoad.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationRoad.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationRoad.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Door.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Door.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Door.cs",
+              "RelativeToolTip": "SimulationLibrary\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:30:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Beam.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Beam.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Beam.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Beam.cs",
+              "RelativeToolTip": "SimulationLibrary\\Beam.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:29:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Roof.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Roof.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Roof.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Roof.cs",
+              "RelativeToolTip": "SimulationLibrary\\Roof.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:28:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Truss.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Truss.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Truss.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Truss.cs",
+              "RelativeToolTip": "SimulationLibrary\\Truss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:27:37.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Wall.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Wall.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Wall.cs",
+              "RelativeToolTip": "SimulationLibrary\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:25:51.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StairCase.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\StairCase.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\StairCase.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\StairCase.cs",
+              "RelativeToolTip": "SimulationLibrary\\StairCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:25:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Stair.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Stair.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Stair.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Stair.cs",
+              "RelativeToolTip": "SimulationLibrary\\Stair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:25:21.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Furniture.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Furniture.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Furniture.cs",
+              "RelativeToolTip": "SimulationLibrary\\Furniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:25:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Floor.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Floor.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Floor.cs",
+              "RelativeToolTip": "SimulationLibrary\\Floor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:24:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Chair.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Chair.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Chair.cs",
+              "RelativeToolTip": "SimulationLibrary\\Chair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:24:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ceiling.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Ceiling.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Ceiling.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Ceiling.cs",
+              "RelativeToolTip": "SimulationLibrary\\Ceiling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:24:06.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingShingle.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\BuildingShingle.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\BuildingShingle.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\BuildingShingle.cs",
+              "RelativeToolTip": "SimulationLibrary\\BuildingShingle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:23:51.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingElevator.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\BuildingElevator.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\BuildingElevator.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\BuildingElevator.cs",
+              "RelativeToolTip": "SimulationLibrary\\BuildingElevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:23:41.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Bridge.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Bridge.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Bridge.cs",
+              "RelativeToolTip": "SimulationLibrary\\Bridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:23:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SimulationBuilding.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationBuilding.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationBuilding.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationBuilding.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationBuilding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:19:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SimulationBodyOfWater.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationBodyOfWater.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationBodyOfWater.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationBodyOfWater.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationBodyOfWater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:14:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SimulationModelElement.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationModelElement.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationModelElement.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationModelElement.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationModelElement.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAOAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:23:18.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationAnimal.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationAnimal.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\SimulationAnimal.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\SimulationAnimal.cs",
+              "RelativeToolTip": "SimulationLibrary\\SimulationAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:17:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "SimulationLibrary\\Class1.cs",
+              "ToolTip": "D:\\DreamWorldMaker\\Projects\\DotNet\\SimulationLibrary\\SimulationLibrary\\SimulationLibrary\\Class1.cs",
+              "RelativeToolTip": "SimulationLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:11:28.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

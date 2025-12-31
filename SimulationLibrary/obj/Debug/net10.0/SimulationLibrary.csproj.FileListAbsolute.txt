@@ -1,0 +1,5 @@
+D:\DreamWorldMaker\Projects\DotNet\SimulationLibrary\SimulationLibrary\SimulationLibrary\obj\Debug\net10.0\SimulationLibrary.csproj.AssemblyReference.cache
+D:\DreamWorldMaker\Projects\DotNet\SimulationLibrary\SimulationLibrary\SimulationLibrary\obj\Debug\net10.0\SimulationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DreamWorldMaker\Projects\DotNet\SimulationLibrary\SimulationLibrary\SimulationLibrary\obj\Debug\net10.0\SimulationLibrary.AssemblyInfoInputs.cache
+D:\DreamWorldMaker\Projects\DotNet\SimulationLibrary\SimulationLibrary\SimulationLibrary\obj\Debug\net10.0\SimulationLibrary.AssemblyInfo.cs
+D:\DreamWorldMaker\Projects\DotNet\SimulationLibrary\SimulationLibrary\SimulationLibrary\obj\Debug\net10.0\SimulationLibrary.csproj.CoreCompileInputs.cache
