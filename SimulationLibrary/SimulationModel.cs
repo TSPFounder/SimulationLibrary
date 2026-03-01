@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using CAD;
 using Mathematics;
@@ -74,6 +74,7 @@ namespace Simulation
             UnrealEngine,
             Unity,
             Blender,
+			Custom,
             Other
         }
         //
@@ -84,6 +85,8 @@ namespace Simulation
             STL,
             STEP,            
             Blender,
+			TXT,
+			CSV,
             Other
         }
         //
